@@ -29,4 +29,4 @@ Things that i plan to do:
 4. Add support for Side Story (currently the present side story is hardcoded)
       I have to update the code manually and rebuild everytime the side story changes.
 
-For help or other issues contact me on discord: "Rioter Neeko#0001"
+For help or other issues contact me on discord: "Rioter Neeko#0646"
